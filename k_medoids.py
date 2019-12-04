@@ -22,8 +22,6 @@ def centers_old(x,k):
     except ValueError:
         print('k exceeds the population size')
         return None
-    #just fo example, delete it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    #centers=np.array([1,7])
     print('centers: ',centers)
     return centers
 
@@ -58,9 +56,6 @@ def PAMalg(k, x, centers):
     print('-'*60)
     medoids=[x[i] for i in centers]
     print('medoids:',medoids)
-    #sys.stdout.write("Medoids: %s%%   \r" % (medoids) )
-    #sys.stdout.flush()
-
     #calculate distances
     #create a matrix with distances
     distances=np.zeros((x.shape[0],k))
