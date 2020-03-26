@@ -1,4 +1,4 @@
-# K-medoids in python 3.X
+# K-medoids
 
 <!DOCTYPE html>
 <html lang="en">
@@ -18,8 +18,13 @@
                 <li>Select different medoids</li>
                 <li>Compute costs and update medoids if the cost is the second smallest</li>
             </ul>
-        <h2>How to execute</h2>
-            <p>Using python 3.x</p>
+            <hr>
+         <h2>Sample results</h2>
+         <p>Using best point as a medoid</p>
+            ![alt text](https://raw.githubusercontent.com/cridav/K-medoids/master/images/best_medoid.png)
+            <br>
+            <p>Using second best point as a medoid</p>
+            ![alt text](https://raw.githubusercontent.com/cridav/K-medoids/master/images/second_best_medoid.png)
         </div>
       </div>
 </body>
