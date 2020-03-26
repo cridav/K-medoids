@@ -21,10 +21,10 @@
             <hr>
          <h2>Sample results</h2>
          <p>Using best point as a medoid</p>
-            ![alt text](https://raw.githubusercontent.com/cridav/K-medoids/master/images/best_medoid.png)
+            ![screenshot](images/best_medoid.png)
             <br>
             <p>Using second best point as a medoid</p>
-            ![alt text](https://raw.githubusercontent.com/cridav/K-medoids/master/images/second_best_medoid.png)
+            ![screenshot](images/second_best_medoid.png)
         </div>
       </div>
 </body>
