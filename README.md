@@ -20,11 +20,14 @@
             </ul>
             <hr>
          <h2>Sample results</h2>
-         <p>Using best point as a medoid</p>
-            ![screenshot](images/best_medoid.png)
+         <li>Using best point as a medoid</li>
+         <br>
+           <img src = "images/best_medoid.png" width = 400 class="center">
             <br>
-            <p>Using second best point as a medoid</p>
-            ![screenshot](images/second_best_medoid.png)
+            <br>
+            <li>Using second best point as a medoid</li>
+            <br>
+            <img src = "images/second_best_medoid.png" width = 400 class="center">  
         </div>
       </div>
 </body>
